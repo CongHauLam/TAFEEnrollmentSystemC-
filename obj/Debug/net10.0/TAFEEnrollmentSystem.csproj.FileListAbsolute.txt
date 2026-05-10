@@ -1,0 +1,42 @@
+C:/Users/001166679/OneDrive - TAFE SA/2026/547/TAFEEnrollmentSystem-main/bin/Debug/net10.0/TAFEEnrollmentSystem.exe
+C:/Users/001166679/OneDrive - TAFE SA/2026/547/TAFEEnrollmentSystem-main/bin/Debug/net10.0/TAFEEnrollmentSystem.deps.json
+C:/Users/001166679/OneDrive - TAFE SA/2026/547/TAFEEnrollmentSystem-main/bin/Debug/net10.0/TAFEEnrollmentSystem.runtimeconfig.json
+C:/Users/001166679/OneDrive - TAFE SA/2026/547/TAFEEnrollmentSystem-main/bin/Debug/net10.0/TAFEEnrollmentSystem.dll
+C:/Users/001166679/OneDrive - TAFE SA/2026/547/TAFEEnrollmentSystem-main/bin/Debug/net10.0/TAFEEnrollmentSystem.pdb
+C:/Users/001166679/OneDrive - TAFE SA/2026/547/TAFEEnrollmentSystem-main/obj/Debug/net10.0/TAFEEnrollmentSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/001166679/OneDrive - TAFE SA/2026/547/TAFEEnrollmentSystem-main/obj/Debug/net10.0/TAFEEnrollmentSystem.AssemblyInfoInputs.cache
+C:/Users/001166679/OneDrive - TAFE SA/2026/547/TAFEEnrollmentSystem-main/obj/Debug/net10.0/TAFEEnrollmentSystem.AssemblyInfo.cs
+C:/Users/001166679/OneDrive - TAFE SA/2026/547/TAFEEnrollmentSystem-main/obj/Debug/net10.0/TAFEEnrollmentSystem.csproj.CoreCompileInputs.cache
+C:/Users/001166679/OneDrive - TAFE SA/2026/547/TAFEEnrollmentSystem-main/obj/Debug/net10.0/TAFEEnrollmentSystem.dll
+C:/Users/001166679/OneDrive - TAFE SA/2026/547/TAFEEnrollmentSystem-main/obj/Debug/net10.0/refint/TAFEEnrollmentSystem.dll
+C:/Users/001166679/OneDrive - TAFE SA/2026/547/TAFEEnrollmentSystem-main/obj/Debug/net10.0/TAFEEnrollmentSystem.pdb
+C:/Users/001166679/OneDrive - TAFE SA/2026/547/TAFEEnrollmentSystem-main/obj/Debug/net10.0/TAFEEnrollmentSystem.genruntimeconfig.cache
+C:/Users/001166679/OneDrive - TAFE SA/2026/547/TAFEEnrollmentSystem-main/obj/Debug/net10.0/ref/TAFEEnrollmentSystem.dll
+/Users/brendon/Library/CloudStorage/OneDrive-TAFESA/2026/547/TAFEEnrollmentSystem-main/bin/Debug/net10.0/TAFEEnrollmentSystem
+/Users/brendon/Library/CloudStorage/OneDrive-TAFESA/2026/547/TAFEEnrollmentSystem-main/bin/Debug/net10.0/TAFEEnrollmentSystem.deps.json
+/Users/brendon/Library/CloudStorage/OneDrive-TAFESA/2026/547/TAFEEnrollmentSystem-main/bin/Debug/net10.0/TAFEEnrollmentSystem.runtimeconfig.json
+/Users/brendon/Library/CloudStorage/OneDrive-TAFESA/2026/547/TAFEEnrollmentSystem-main/bin/Debug/net10.0/TAFEEnrollmentSystem.dll
+/Users/brendon/Library/CloudStorage/OneDrive-TAFESA/2026/547/TAFEEnrollmentSystem-main/bin/Debug/net10.0/TAFEEnrollmentSystem.pdb
+/Users/brendon/Library/CloudStorage/OneDrive-TAFESA/2026/547/TAFEEnrollmentSystem-main/obj/Debug/net10.0/TAFEEnrollmentSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brendon/Library/CloudStorage/OneDrive-TAFESA/2026/547/TAFEEnrollmentSystem-main/obj/Debug/net10.0/TAFEEnrollmentSystem.AssemblyInfoInputs.cache
+/Users/brendon/Library/CloudStorage/OneDrive-TAFESA/2026/547/TAFEEnrollmentSystem-main/obj/Debug/net10.0/TAFEEnrollmentSystem.AssemblyInfo.cs
+/Users/brendon/Library/CloudStorage/OneDrive-TAFESA/2026/547/TAFEEnrollmentSystem-main/obj/Debug/net10.0/TAFEEnrollmentSystem.csproj.CoreCompileInputs.cache
+/Users/brendon/Library/CloudStorage/OneDrive-TAFESA/2026/547/TAFEEnrollmentSystem-main/obj/Debug/net10.0/TAFEEnrollmentSystem.dll
+/Users/brendon/Library/CloudStorage/OneDrive-TAFESA/2026/547/TAFEEnrollmentSystem-main/obj/Debug/net10.0/refint/TAFEEnrollmentSystem.dll
+/Users/brendon/Library/CloudStorage/OneDrive-TAFESA/2026/547/TAFEEnrollmentSystem-main/obj/Debug/net10.0/TAFEEnrollmentSystem.pdb
+/Users/brendon/Library/CloudStorage/OneDrive-TAFESA/2026/547/TAFEEnrollmentSystem-main/obj/Debug/net10.0/TAFEEnrollmentSystem.genruntimeconfig.cache
+/Users/brendon/Library/CloudStorage/OneDrive-TAFESA/2026/547/TAFEEnrollmentSystem-main/obj/Debug/net10.0/ref/TAFEEnrollmentSystem.dll
+/Users/brendon/Library/CloudStorage/OneDrive-TAFESA/2026/547/TAFEEnrollmentSystem (3)/TAFEEnrollmentSystem-main/obj/Debug/net10.0/TAFEEnrollmentSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brendon/Library/CloudStorage/OneDrive-TAFESA/2026/547/TAFEEnrollmentSystem (3)/TAFEEnrollmentSystem-main/obj/Debug/net10.0/TAFEEnrollmentSystem.AssemblyInfoInputs.cache
+/Users/brendon/Library/CloudStorage/OneDrive-TAFESA/2026/547/TAFEEnrollmentSystem (3)/TAFEEnrollmentSystem-main/obj/Debug/net10.0/TAFEEnrollmentSystem.AssemblyInfo.cs
+/Users/brendon/Library/CloudStorage/OneDrive-TAFESA/2026/547/TAFEEnrollmentSystem (3)/TAFEEnrollmentSystem-main/obj/Debug/net10.0/TAFEEnrollmentSystem.csproj.CoreCompileInputs.cache
+/Users/brendon/Library/CloudStorage/OneDrive-TAFESA/2026/547/TAFEEnrollmentSystem (3)/TAFEEnrollmentSystem-main/obj/Debug/net10.0/TAFEEnrollmentSystem.dll
+/Users/brendon/Library/CloudStorage/OneDrive-TAFESA/2026/547/TAFEEnrollmentSystem (3)/TAFEEnrollmentSystem-main/obj/Debug/net10.0/refint/TAFEEnrollmentSystem.dll
+/Users/brendon/Library/CloudStorage/OneDrive-TAFESA/2026/547/TAFEEnrollmentSystem (3)/TAFEEnrollmentSystem-main/obj/Debug/net10.0/TAFEEnrollmentSystem.pdb
+/Users/brendon/Library/CloudStorage/OneDrive-TAFESA/2026/547/TAFEEnrollmentSystem (3)/TAFEEnrollmentSystem-main/bin/Debug/net10.0/TAFEEnrollmentSystem
+/Users/brendon/Library/CloudStorage/OneDrive-TAFESA/2026/547/TAFEEnrollmentSystem (3)/TAFEEnrollmentSystem-main/bin/Debug/net10.0/TAFEEnrollmentSystem.deps.json
+/Users/brendon/Library/CloudStorage/OneDrive-TAFESA/2026/547/TAFEEnrollmentSystem (3)/TAFEEnrollmentSystem-main/bin/Debug/net10.0/TAFEEnrollmentSystem.runtimeconfig.json
+/Users/brendon/Library/CloudStorage/OneDrive-TAFESA/2026/547/TAFEEnrollmentSystem (3)/TAFEEnrollmentSystem-main/bin/Debug/net10.0/TAFEEnrollmentSystem.dll
+/Users/brendon/Library/CloudStorage/OneDrive-TAFESA/2026/547/TAFEEnrollmentSystem (3)/TAFEEnrollmentSystem-main/bin/Debug/net10.0/TAFEEnrollmentSystem.pdb
+/Users/brendon/Library/CloudStorage/OneDrive-TAFESA/2026/547/TAFEEnrollmentSystem (3)/TAFEEnrollmentSystem-main/obj/Debug/net10.0/TAFEEnrollmentSystem.genruntimeconfig.cache
+/Users/brendon/Library/CloudStorage/OneDrive-TAFESA/2026/547/TAFEEnrollmentSystem (3)/TAFEEnrollmentSystem-main/obj/Debug/net10.0/ref/TAFEEnrollmentSystem.dll

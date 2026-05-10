@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\001166679\\OneDrive - TAFE SA\\2026\\547\\TAFEEnrollmentSystem-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8117EAC3-F6EB-4D6D-A93D-4E2653DCCFEE}|..\\TAFEEnrollmentSystem.Tests\\TAFEEnrollmentSystem.Tests.csproj|c:\\users\\001166679\\onedrive - tafe sa\\2026\\547\\tafeenrollmentsystem.tests\\testing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F81C811-548C-1CFC-B908-68FF3701C098}|TAFEEnrollmentSystem.csproj|c:\\users\\001166679\\onedrive - tafe sa\\2026\\547\\tafeenrollmentsystem-main\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F81C811-548C-1CFC-B908-68FF3701C098}|TAFEEnrollmentSystem.csproj|solutionrelative:model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F81C811-548C-1CFC-B908-68FF3701C098}|TAFEEnrollmentSystem.csproj|c:\\users\\001166679\\onedrive - tafe sa\\2026\\547\\tafeenrollmentsystem-main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F81C811-548C-1CFC-B908-68FF3701C098}|TAFEEnrollmentSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F81C811-548C-1CFC-B908-68FF3701C098}|TAFEEnrollmentSystem.csproj|c:\\users\\001166679\\onedrive - tafe sa\\2026\\547\\tafeenrollmentsystem-main\\utility\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F81C811-548C-1CFC-B908-68FF3701C098}|TAFEEnrollmentSystem.csproj|solutionrelative:utility\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8117EAC3-F6EB-4D6D-A93D-4E2653DCCFEE}|..\\TAFEEnrollmentSystem.Tests\\TAFEEnrollmentSystem.Tests.csproj|c:\\users\\001166679\\onedrive - tafe sa\\2026\\547\\tafeenrollmentsystem.tests\\tafeenrollmentsystem.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F81C811-548C-1CFC-B908-68FF3701C098}|TAFEEnrollmentSystem.csproj|c:\\users\\001166679\\onedrive - tafe sa\\2026\\547\\tafeenrollmentsystem-main\\tafeenrollmentsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7F81C811-548C-1CFC-B908-68FF3701C098}|TAFEEnrollmentSystem.csproj|solutionrelative:tafeenrollmentsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Utility.cs",
+              "DocumentMoniker": "C:\\Users\\001166679\\OneDrive - TAFE SA\\2026\\547\\TAFEEnrollmentSystem-main\\Utility\\Utility.cs",
+              "RelativeDocumentMoniker": "Utility\\Utility.cs",
+              "ToolTip": "C:\\Users\\001166679\\OneDrive - TAFE SA\\2026\\547\\TAFEEnrollmentSystem-main\\Utility\\Utility.cs",
+              "RelativeToolTip": "Utility\\Utility.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T03:40:34.86Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\001166679\\OneDrive - TAFE SA\\2026\\547\\TAFEEnrollmentSystem-main\\Model\\Student.cs",
+              "RelativeDocumentMoniker": "Model\\Student.cs",
+              "ToolTip": "C:\\Users\\001166679\\OneDrive - TAFE SA\\2026\\547\\TAFEEnrollmentSystem-main\\Model\\Student.cs",
+              "RelativeToolTip": "Model\\Student.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAqwGEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T04:43:53.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TAFEEnrollmentSystem.csproj",
+              "DocumentMoniker": "C:\\Users\\001166679\\OneDrive - TAFE SA\\2026\\547\\TAFEEnrollmentSystem-main\\TAFEEnrollmentSystem.csproj",
+              "RelativeDocumentMoniker": "TAFEEnrollmentSystem.csproj",
+              "ToolTip": "C:\\Users\\001166679\\OneDrive - TAFE SA\\2026\\547\\TAFEEnrollmentSystem-main\\TAFEEnrollmentSystem.csproj",
+              "RelativeToolTip": "TAFEEnrollmentSystem.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-27T03:47:11.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\001166679\\OneDrive - TAFE SA\\2026\\547\\TAFEEnrollmentSystem-main\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\001166679\\OneDrive - TAFE SA\\2026\\547\\TAFEEnrollmentSystem-main\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAgwJoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T03:41:31.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TAFEEnrollmentSystem.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\001166679\\OneDrive - TAFE SA\\2026\\547\\TAFEEnrollmentSystem.Tests\\TAFEEnrollmentSystem.Tests.csproj",
+              "RelativeDocumentMoniker": "..\\TAFEEnrollmentSystem.Tests\\TAFEEnrollmentSystem.Tests.csproj",
+              "ToolTip": "C:\\Users\\001166679\\OneDrive - TAFE SA\\2026\\547\\TAFEEnrollmentSystem.Tests\\TAFEEnrollmentSystem.Tests.csproj",
+              "RelativeToolTip": "..\\TAFEEnrollmentSystem.Tests\\TAFEEnrollmentSystem.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-27T03:36:27.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Testing.cs",
+              "DocumentMoniker": "C:\\Users\\001166679\\OneDrive - TAFE SA\\2026\\547\\TAFEEnrollmentSystem.Tests\\Testing.cs",
+              "RelativeDocumentMoniker": "..\\TAFEEnrollmentSystem.Tests\\Testing.cs",
+              "ToolTip": "C:\\Users\\001166679\\OneDrive - TAFE SA\\2026\\547\\TAFEEnrollmentSystem.Tests\\Testing.cs",
+              "RelativeToolTip": "..\\TAFEEnrollmentSystem.Tests\\Testing.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAIwB4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T03:31:42.171Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

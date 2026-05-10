@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../TAFEEnrollmentSystem.Tests/TAFEEnrollmentSystem.Tests.csproj" Id="8117eac3-f6eb-4d6d-a93d-4e2653dccfee" />
+  <Project Path="TAFEEnrollmentSystem.csproj" />
+</Solution>
